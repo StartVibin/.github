@@ -1,12 +1,12 @@
 # 🎧 Vibin’: The privacy-first protocol for music data rewards.
 
-
+![Vibin' banner](/assets/vibin.jpeg)
 
 Vibin’ is a decentralized infrastructure that turns your Spotify listening into encrypted, on-chain value, transforming music data into a source of rewards, insights and governance power.
 
 This isn’t just another Web3 app. It’s a signal-based data economy.
 
-## 💡 What is Vibin’? 
+## 🔍 About Vibin’
 Vibin’ is a secure music data pipeline built to reward users for their listening habits, without compromising privacy. By combining trusted execution environments (TEEs), zk-proofs and Ethereum-based validation, Vibin’ enables anyone to:
 
 -  **Own their listening data with full encryption and zero surveillance.**
@@ -15,7 +15,7 @@ Vibin’ is a secure music data pipeline built to reward users for their listeni
 
 Whether you’re vibing to your favorite artist or running a node, Vibin’ turns music into value.
 
-## ⚙️ Key Features
+## ⚙️ System Highlights
 **Encrypted Syncing:**
 Client-side encryption of Spotify listening history before data ever leaves the browser.
 
@@ -34,7 +34,7 @@ Stake $VIBIN to validators and earn rewards while keeping tokens in your wallet.
 **Decentralized Infrastructure:**
 Lightweight nodes, incentivized routers and zk-enabled validators form the backbone.
 
-## 🧱 Architecture Overview
+## 🧱 Protocol Stack
 The Vibin’ protocol is built on a modular, privacy-first data rollup stack:
 
 **User Client:**
@@ -65,7 +65,7 @@ The Vibin’ protocol is built on a modular, privacy-first data rollup stack:
 -  **Immutable record of validated sessions + zk/TEE attestations.**
 -  **Powers future AI, governance and analytics tools.**
 
-## 📖 Getting Started
+## 📖 Quickstart Guide
 
 Vibin’ is in early access. To join: 
 -  **Get an Invite: Ask an existing user or join the waitlist.**

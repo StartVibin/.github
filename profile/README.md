@@ -75,6 +75,6 @@ Vibin’ is in early access. To join:
 ## Start vibin’, earn from your vibes and help reshape the future of music data.
 
 - [www.startvibin.io](https://www.startvibin.io)
-- [x.com/StartVibin](https://x.com/StartVibin)
+- [x.com/StartVibin_](https://x.com/StartVibin_)
 - [t.me/StartVibin](https://t.me/StartVibin)
 - [docs.startvibin.io](https://docs.startvibin.io)  

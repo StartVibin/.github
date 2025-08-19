@@ -1,6 +1,6 @@
 # 🎧 Vibin’: The privacy-first protocol for music data rewards.
 
-![Vibin' banner](/assets/vibin.jpeg)
+![Vibin' banner](/assets/GitCover.jpg)
 
 Vibin’ is a decentralized infrastructure that turns your Spotify listening into encrypted, on-chain value, transforming music data into a source of rewards, insights and governance power.
 
